@@ -69,6 +69,7 @@ Add to your `claude_desktop_config.json`:
 | `GET /api/v1/sentiment?key=YOUR_KEY` | Current sentiment summary |
 | `GET /api/v1/signals?key=YOUR_KEY` | Top bullish + bearish posts |
 | `GET /api/v1/latest?key=YOUR_KEY` | Most recent analyzed posts |
+| `GET /api/v1/polymarket?key=YOUR_KEY` | Live Polymarket crypto prediction markets |
 | `POST /mcp` | MCP JSON-RPC endpoint |
 
 ## Pricing

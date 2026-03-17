@@ -70,6 +70,8 @@ Add to your `claude_desktop_config.json`:
 | `GET /api/v1/signals?key=YOUR_KEY` | Top bullish + bearish posts |
 | `GET /api/v1/latest?key=YOUR_KEY` | Most recent analyzed posts |
 | `GET /api/v1/polymarket?key=YOUR_KEY` | Live Polymarket crypto prediction markets |
+| `GET /api/v1/dex?key=YOUR_KEY` | Trending tokens from DEX Screener |
+| `GET /api/v1/combined?key=YOUR_KEY` | **All signals in one call** (sentiment + polymarket + dex) |
 | `POST /mcp` | MCP JSON-RPC endpoint |
 
 ## Pricing
